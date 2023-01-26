@@ -69,13 +69,13 @@ When comparing MechaCar vehicles to it competition, data analysis that would be 
 Many analyses can be run with these data, two examples are:
 #### Higher Safety Rating scores will lead to higher Average Length of Ownership
   *	Null Hypothesis: Safety Rating scores do not have an impact on ALO.
-   +	Run a linear model qualitative analysis to determine if there is a correlation.
-   *	Run a linear model quantitative analysis to determine p-value and r squared.
+   +	Run a linear model qualitative analysis to determine if there is a correlation between Safety Rating and ALO.
+   *	Run a linear model quantitative analysis to determine p-value and r squared for Safety Rating.
 ####	MechaCar has a lower 10 year Depreciation than X competitor 
   *	Null Hypothesis: MechaCar does not have a lower 10 year Depreciation.
    *	Use t-tests to determine comparable populations between MechaCar and X
-    *	Create subsets for MPG, Initial Cost, Safety Rating
-   *	Populations with high t-test p-values can be compared.
+    *	Create subsets for the t-test: MPG, Initial Cost, Safety Rating
+   *	Populations with high t-test p-values can be compared on Depreciation.
 
 With these data, mangers and analysts have multiple points of inquiry that lead to MechaCar’s success.
 
