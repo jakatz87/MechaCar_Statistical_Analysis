@@ -43,10 +43,10 @@ Many analyses can be run with these data, two examples are:
   *	Null Hypothesis: Safety Rating scores do not have an impact on ALO.
    +	Run a linear model qualitative analysis to determine if there is a correlation.
    *	Run a linear model quantitative analysis to determine p-value and r squared.
--	MechaCar has a lower 10 year Depreciation than X competitor 
+####	MechaCar has a lower 10 year Depreciation than X competitor 
   *	Null Hypothesis: MechaCar does not have a lower 10 year Depreciation.
    *	Use t-tests to determine comparable populations between MechaCar and X
-    *	Subsets for MPG, Initial Cost, Safety Rating
+    *	Create subsets for MPG, Initial Cost, Safety Rating
    *	Populations with high t-test p-values can be compared.
 
 With these data, mangers and analysts have multiple points of inquiry that lead to MechaCar’s success.
