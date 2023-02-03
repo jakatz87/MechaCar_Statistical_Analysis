@@ -1,5 +1,8 @@
 # MechaCar Statistical Analysis
 
+## Overview
+I used R Studio with R programming to analyze MechaCar's manufacturing and performance and how it may be compared internally and externally by statistical methods.
+
 ## Resources
 - R-Studio
 - MechaCar_mpg.csv
